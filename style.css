@@ -1,0 +1,47 @@
+.bigdiv{
+	display: flex;
+	height: 200px;
+	background-image: url(a7xRtcf2OFk.jpg);
+	margin-left: 50px;
+}
+a{
+	height: 100px; 
+	color: white;
+	margin-left: 400px;
+	margin-top: 100px;
+}
+.img{
+	height: 200px;
+	width: 200px;
+}
+.div{
+	margin-top: 100px;
+	background-image: url(batman.jpg);
+	height: 500px;
+	width: 1500px;
+	transition: 0.7s
+}
+.div1{
+	background-image: url(wow-horde-orda-znamya-simvol.jpg);
+}
+.h{
+	color: white;
+}
+.margen{
+	margin-left: 100px;
+}
+.button1{
+	height: 50px;
+	width: 70px;
+	background-color: blue;
+	margin-left: 333px;
+}
+.flex{
+	display: flex;
+}
+.button2{
+	height: 50px;
+	width: 70px;
+	background-color: blue;
+	margin-left: 700px
+}
